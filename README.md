@@ -1,2 +1,5 @@
-# emdash
-A simple taskbar made in Rust and powered by GTK3 - made for Linux
+# === EMDASH ===
+## GTK3 Menu Bar
+Emdash is a simple GTK3 taskbar made in Rust.
+## Not currently in development - but will be soon! Check back later!
+
